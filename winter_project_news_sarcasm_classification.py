@@ -88,7 +88,7 @@ print('Token IDs:', input_ids[0])
 """**HYPERPARAMETERS**"""
 
 data_portion = 0.2
-learning_rate = 1e-5
+learning_rate = 2e-5
 batch_size = 16
 epochs = 2
 
